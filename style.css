@@ -1,0 +1,77 @@
+body{
+    font-family: 'Uchen', serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+}
+p{
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    margin-bottom: 20%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: royalblue;
+    font-weight: 800;
+    color: black;
+    padding: 10px 40px;
+    border: 5px solid;
+    border-radius: 5px;
+}
+h2{
+    font-size: 40px;
+}
+.top-banner{
+    background-image: url(images/Frame\ 58.jpg);
+}
+span{
+    background-color: coral;
+    padding: 10px 40px;
+    border: 4px springgreen;
+    border-radius: 10px;
+}
+.recipies{
+    text-align: center;
+    margin-bottom: 20%;
+}
+.blocks{
+    display: inline-block;
+}
+.half-widthy{
+    width: 50%;
+    padding: 5%;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.half-widthy img{
+    width: 200%;
+}
+.containery{
+    display: flex;
+    margin-bottom: 20%;
+    border: 5px solid;
+    padding-left: 3%;
+    margin-left: 2%;
+}
+.last{
+    color: red;
+}
+.lasty{
+    color: white;
+}
+.lasht{
+    border: 5px black;
+    border-radius: 10px;
+    background-color: black;
+    text-align: center;
+}
